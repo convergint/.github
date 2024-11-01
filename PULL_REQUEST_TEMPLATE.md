@@ -4,12 +4,16 @@
 - **Related PRs**: List any related pull requests, if applicable.
 - **Feature Flag**: List any related feature flag, if applicable.
 
----
-
 ## Description
 
 - Provide a concise summary of what this PR accomplishes and any major changes introduced.
 
+## Tests
+
+- [ ] **Unit Tests**: Covers individual functions, methods, or components.
+- [ ] **Integration Tests**: Tests interactions between different parts of the system.
+
+**If no tests are included, explain why**:
 
 ## Considerations
 
