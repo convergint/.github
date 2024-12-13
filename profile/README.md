@@ -13,7 +13,7 @@ Convergint is a technology organization that deliveries solutions for customers 
 ## How to Get Started
 
 1. **Explore Our Repositories:**
-   - Browse through the [repositories](https://github.com/convergint) to discover projects that interest you.
+   - Browse through the [repositories](https://github.com/orgs/convergint/repositories) to discover projects that interest you.
 
 2. **Contribute to Projects:**
    - Check out our [contributing guidelines](CONTRIBUTING.md) for detailed instructions on how to contribute.
