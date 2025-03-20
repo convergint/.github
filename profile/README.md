@@ -1,4 +1,4 @@
-# Welcome to Convergit's GitHub
+# Welcome to Convergint's GitHub
 
 Welcome to the official GitHub organization for Convergint! We're excited to have you here. This is the central hub for all our open-source projects, collaborations, and community-driven initiatives.
 
@@ -6,7 +6,7 @@ Welcome to the official GitHub organization for Convergint! We're excited to hav
 
 ## Who We Are
 
-Convergint is a technology organization that deliveries solutions for customers around security and internally to excelerate and enable.
+Convergint is a technology organization that delivers solutions for customers around security and internally to accelerate and enable.
 
 ---
 
