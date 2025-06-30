@@ -1,21 +1,49 @@
-## Summary
+# Title
+_A clear, concise title describing the PR purpose_
 
-- **Linear Issue**: Link the relevant Linear issue (e.g., `part of`, `fixes #ISSUE_ID`).
-- **Related PRs**: List any related pull requests, if applicable.
-- **Feature Flag**: List any related feature flag, if applicable.
+---
 
-## Description
+## Related Tickets
+_Link to relevant GitHub issues, Linear tickets, or any other tracking links._
 
-- Provide a concise summary of what this PR accomplishes and any major changes introduced.
+---
 
-## Tests
+## Why
+_Explain the purpose behind this change. Describe the problem it solves, the business context, and any background information that would help reviewers understand the need for this PR._
 
-- [ ] **Unit Tests**: Covers individual functions, methods, or components.
-- [ ] **Integration Tests**: Tests interactions between different parts of the system.
+---
 
-**If no tests are included, explain why**:
+## How
+_Provide a technical explanation of your approach._
 
-## Considerations
+- **Overall strategy:**  
+- **Key implementation details:**  
+- **Design / architectural decisions:**  
+- **References / docs:**  
 
-- Note any important considerations, edge cases, or potential impacts of these changes.
-- Mention any configuration changes, migrations, or special deployment steps if required.
+---
+
+## Demo / Screenshots / Logs
+
+### UI Changes
+_Attach screenshots or screen recordings._
+
+### Backend / CLI / Other
+_Include logs, performance metrics, or other relevant output._
+
+---
+
+## Testing Steps
+
+1. **Setup:** _Any configuration or environment setup needed._  
+2. **Execution:** _Step-by-step instructions on how to test the change._  
+3. **Expected Outcome:** _Describe the expected result once the change is applied._  
+4. **Automated Tests:** _List any unit, integration, or end-to-end tests added or updated._
+
+---
+
+## Additional Notes (Optional)
+
+- _Potential impacts on other parts of the system._  
+- _Rollback instructions, if applicable._  
+- _Dependencies or prerequisites._  
